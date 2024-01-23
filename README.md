@@ -1,6 +1,6 @@
 # Scroll-And-Like
 
-CSDN导航页自动滚动点赞功能-TamperMokey
+CSDN导航页文章自动滚动+点赞功能-TamperMokey
 
 脚本匹配网站:https://blog.csdn.net/nav/*
 

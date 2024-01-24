@@ -4,7 +4,6 @@
 // @version      0.1
 // @description  CSDN nav页面自动滚动并点赞，并关注侧边栏推荐的用户
 // @author       lujue
-// @match        http://*/*
 // @match        https://blog.csdn.net/nav/*
 // @license      MIT
 // @grant        none
